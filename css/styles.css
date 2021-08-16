@@ -567,6 +567,9 @@ footer {
 .project-image {
   position: relative;
 
+  width: 370px;
+  height: 294px;
+
   overflow: hidden;
 }
 .about-project-space {
@@ -581,8 +584,6 @@ footer {
   height: 294px;
 
   background-color: rgba(33, 150, 243, 0.9);
-
-  opacity: 0;
 
   transform: translateY(100%);
 
